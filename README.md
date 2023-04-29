@@ -1,2 +1,2 @@
 # Capstone-Presentations
-Presentations given at events for confrences
+Presentations Given at Conference Events
